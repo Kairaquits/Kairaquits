@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kairaquits
-- 👀 I’m interested in web dev, especially with three.js
-- 🌱 I’m currently learning HTML, CSS, JS, Python
+- 👀 I’m interested in Web dev (full-stack), especially three.js 
+- 🌱 I’m currently learning front-end stuff: HTML, CSS and JS!
 - 📫 How to reach me thedominothatquits@gmail.com
 
 <!---
