@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kairaquits
-- 👀 I’m interested in Web dev (full-stack), especially three.js 
+- 👀 I’m interested in Full-stack development  
 - 🌱 I’m currently learning front-end stuff: HTML, CSS and JS!
 - 📫 How to reach me thedominothatquits@gmail.com
 
